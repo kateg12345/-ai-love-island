@@ -1,7 +1,7 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
   output: 'export',
-  basePath: '/love-island-prototype',
+  basePath: '/-ai-love-island',
   images: {
     unoptimized: true,
   },
